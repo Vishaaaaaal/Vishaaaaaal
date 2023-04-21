@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vishaaaaaal
-- 👀 I’m interested in everything from Photography to Robotics
-- 🌱 I’m currently learning c and python
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in everything from Photography to Robotics.
+- 🌱 I’m currently learning Machine Learning, Flutter and python.
+- 💞️ I’m looking to collaborate on anything realted to tech.
 - 📫 How to reach me - mail at: vishalrajeevvr@gmail.com
 
 <!---
